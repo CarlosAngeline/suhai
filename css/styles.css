@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
     align-content: space-between;
     flex-direction: column;
     padding: 4% 15px;
-    padding: 15vh 15px;
+    padding: 7vh 15px;
     position: relative;
     z-index: 10;
 }
